@@ -3,7 +3,8 @@
 
 
 <h3 align="center">IT'24 Undergrad... A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif">
+
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif">
 
 
 
