@@ -8,17 +8,17 @@
 
 
 
-- 🔭 I’m currently working on **MERN & Web3 projects**
+- 🔭 I’m currently working on : **MERN & Web3 projects**
 
-- 🌱 I’m currently learning **Hardhat, NextJS**
+- 🌱 I’m currently learning : **Hardhat, NextJS**
 
-- 👯 I’m looking to collaborate on **WEB3 Space**
+- 👯 I’m looking to collaborate on : **WEB3 Space**
 
 - 📝 I regularly write articles on : [https://blogstoarise.blogspot.com/](https://blogstoarise.blogspot.com/)
 
 - 📫 How to reach me :  **nishantap.a20@gmail.com**
 
-- ⚡ Fun fact :  **I love to create memes**
+- ⚡ Fun fact :)  **I love to create memes**
 
 
 
