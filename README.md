@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on : **WEB3 Space**
 
-- 📝 I regularly write articles on : [https://blogstoarise.blogspot.com/](https://blogstoarise.blogspot.com/)
+- 📝 sometimes write articles on : [https://blogstoarise.blogspot.com/](https://blogstoarise.blogspot.com/)
 
 - 📫 How to reach me :  **nishantap.a20@gmail.com**
 
