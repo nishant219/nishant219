@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishant Patil</h1>
+<h1 align="center">Hi, I'm Nishant Patil ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif">
 
 
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me :  **nishantap.a20@gmail.com**
 
-- ⚡ Fun fact :)  **I love to create memes**
+- ⚡ :)  **I love to create memes**
 
 
 
