@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/nishant-patil/)
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/nishantpatil219//)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/nishant44238894)
 [<img src="https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=yellow"/>](https://www.leetcode.com/nishant_219/)
 [<img src="https://img.shields.io/badge/geeksforgeeks-%230077B5.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=green"/>](https://auth.geeksforgeeks.org/user/nishant219/)
