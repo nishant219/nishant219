@@ -58,13 +58,14 @@
 </div>  
 <br/> 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant219&show_icons=true&locale=en&layout=compact" alt="nishant219"  width="350" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant219&" alt="nishant219" width="370" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant219&show_icons=true&locale=en" alt="nishant219" width="370" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant219&" alt="nishant219" width="370" /></p>
 
 
 
