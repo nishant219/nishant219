@@ -6,8 +6,7 @@
 
 
 
-<!-- <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif">
- -->
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
