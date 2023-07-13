@@ -21,7 +21,7 @@
 
 - 📫 How to reach me :  **nishantap.a20@gmail.com**
 
-- ⚡ :)  **I love to create memes @startup_leos **
+- ⚡ :) love to create memes @startup_leos 
 
 
 <br/>
