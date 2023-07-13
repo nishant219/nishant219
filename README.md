@@ -11,17 +11,17 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
-- 🔭 I’m currently working on : **MERN & Web3 projects**
+- 🕵️‍♂️ I’m currently working on : **MERN & Web3 projects**
 
-- 🌱 I’m currently learning : **Hardhat, NextJS**
+- 🌱 I’m currently learning : **Hardhat, Backend tech stack**
 
-- 👯 I’m looking to collaborate on : **WEB3 Space**
+- 🤝 I’m looking to collaborate on : **WEB3 Space**
 
 - 📝 sometimes write articles on : [https://blogstoarise.blogspot.com/](https://blogstoarise.blogspot.com/)
 
 - 📫 How to reach me :  **nishantap.a20@gmail.com**
 
-- ⚡ :)  **I love to create memes**
+- ⚡ :)  **I love to create memes @startup_leos **
 
 
 <br/>
