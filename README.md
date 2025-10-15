@@ -1,41 +1,43 @@
-<h1 align="center">Hi, I'm Nishant Patil ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
+<h1 align="center">Hi, I'm Nishant Patil! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<h3 align="center">IT'24 Undergrad... A passionate developer from India</h3>
+<h3 align="center">SDE 1</h3>
 
-<img align="right" alt="Coding" width="350"  src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif">
+<!-- <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif"> -->
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
+- 🕵️‍♂️ I’m currently working and learning: **Everything ;)**
 
-- 🕵️‍♂️ I’m currently working on : **MERN & Web3 projects**
+---
 
-- 🌱 I’m currently learning : **Everything ;)**
+### 🧠 Key Technical Expertise
 
-- 🤝 I’m looking to collaborate on : **Web**
-
-- 📝 sometimes write articles on : [https://blogstoarise.blogspot.com/](https://blogstoarise.blogspot.com/)
-
-- 📫 How to reach me :  **nishantap.a20@gmail.com**
-
-- ⚡ :) love to create memes: @(https://www.instagram.com/startup_leos/)
-
+- **Backend:** Node.js, Express.js, Mongoose, Drizzle ORM, Sequelize
+- **Databases:** PostgreSQL, MongoDB, PlanetScale MySQL, Redis, Algolia, NotionDB  
+- **Languages:** JavaScript, TypeScript, Java, SQL, Solidity  
+- **AI Integration:** Prompt Engineering, Langwatch, Helicone, Vertex AI Fine Tuning  
+- **FrontEnd:** HTML, React, and some basic libraries/tools in FE
+---
 
 <br/>
-<br/>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nishant219&&style=flat-square" align="center" />
-</div>  
-<br/> 
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishant219&&style=flat-square" align="center" />
+</div>
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/nishantpatil219//)
-[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/nishant44238894)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/nishantpatil219/)
+[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/nishant44238894)
 [<img src="https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=yellow"/>](https://www.leetcode.com/nishant_219/)
 [<img src="https://img.shields.io/badge/geeksforgeeks-%230077B5.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=green"/>](https://auth.geeksforgeeks.org/user/nishant219/)
-  [<img src="https://img.shields.io/badge/codechef-%230077B5.svg?&style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/nishantap_219/)
+[<img src="https://img.shields.io/badge/codechef-%230077B5.svg?&style=for-the-badge&logo=codechef&logoColor=white"/>](https://www.codechef.com/users/nishantap_219/)
+
+</p>
   
   
 <!--   
