@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Nishant Patil! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<h3 align="center">SDE 1</h3>
+<h3 align="center">
+  SDE 1
+  <a href="https://github.com/nishantNxtJob">
+    <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
+  </a>
+</h3>
 
 <!-- <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif"> -->
 
@@ -12,11 +17,12 @@
 
 ### 🧠 Key Technical Expertise
 
-- **Backend:** Node.js, Express.js, Mongoose, Drizzle ORM, Sequelize
+- **Backend:** Node.js, Express.js, Mongoose, Drizzle ORM, Sequelize  
 - **Databases:** PostgreSQL, MongoDB, PlanetScale MySQL, Redis, Algolia, NotionDB  
 - **Languages:** JavaScript, TypeScript, Java, SQL, Solidity  
 - **AI Integration:** Prompt Engineering, Langwatch, Helicone, Vertex AI Fine Tuning  
-- **FrontEnd:** HTML, React, and some basic libraries/tools in FE
+- **Frontend:** HTML, React, and basic FE libraries/tools  
+
 ---
 
 <br/>
@@ -38,6 +44,8 @@
 [<img src="https://img.shields.io/badge/codechef-%230077B5.svg?&style=for-the-badge&logo=codechef&logoColor=white"/>](https://www.codechef.com/users/nishantap_219/)
 
 </p>
+
+
   
   
 <!--   
