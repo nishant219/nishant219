@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nishant Patil! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <h3 align="center">
-  SDE 1
+  SDE
   <!-- <a href="https://github.com/nishantNxtJob">
     <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
   </a> -->
