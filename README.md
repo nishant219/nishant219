@@ -13,6 +13,7 @@
 
 * 🕵️‍♂️ Currently working & learning: **Everything ;)**
 * 🚀 Recently built: [ProjXchange](https://www.projxchange.in/) — a platform for discovering and collaborating on projects.
+* 🤝 Currently contributing to: [FitForge](https://fitforge-seven-theta.vercel.app/)
 
 ---
 
