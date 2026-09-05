@@ -12,8 +12,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 * 🕵️‍♂️ Currently working & learning: **Everything ;)**
-* 🚀 Recently built: [ProjXchange](https://www.projxchange.in/) — a platform for discovering and collaborating on projects.
-* 🤝 Currently contributing to: [FitForge](https://fitforge-seven-theta.vercel.app/)
+* 🚀 Recently built Project: [ProjXchange](https://www.projxchange.in/) — a platform for discovering and collaborating on projects.
+* 🤝 Currently contributing to this project: [FitForge](https://fitforge-seven-theta.vercel.app/)
 
 ---
 
